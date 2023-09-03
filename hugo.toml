@@ -1,0 +1,4 @@
+baseURL = 'https://sutin1234.github.io/hugo-blog'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
